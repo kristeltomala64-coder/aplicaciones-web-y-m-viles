@@ -2,7 +2,7 @@ Repositorio oficial de la asignatura **Aplicaciones Web y Móviles** de 2° Bach
 
 ---
 
-## Descripción
+## DESCRIPCION 
 
 En esta asignatura los estudiantes desarrollarán habilidades para el diseño y construcción de aplicaciones web interactivas utilizando tecnologías modernas del desarrollo frontend.
 
